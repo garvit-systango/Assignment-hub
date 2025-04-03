@@ -4,3 +4,6 @@
 [submodule "React-Assign-TanStack"]
 	path = React-Assign-TanStack
 	url = git@github.com:garvit-systango/React-Assign-TanStack.git
+[submodule "Garvit-Assign"]
+	path = Garvit-Assign
+	url = git@github.com:garvit-systango/Garvit-Assign.git
