@@ -7,3 +7,6 @@
 [submodule "Garvit-Assign"]
 	path = Garvit-Assign
 	url = git@github.com:garvit-systango/Garvit-Assign.git
+[submodule "Weekend-Assign"]
+	path = Weekend-Assign
+	url = git@github.com:garvit-systango/Weekend-Assign.git
